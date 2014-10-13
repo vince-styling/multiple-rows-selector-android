@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.vincestyling.multiple_rows_selector.FinderListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/finder_booklist_bg"
+    android:id="@+id/lsvFinder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@null"
+    android:dividerHeight="0dp"
+    android:cacheColorHint="@android:color/transparent"/>
